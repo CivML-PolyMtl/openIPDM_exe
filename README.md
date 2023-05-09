@@ -11,7 +11,7 @@ OpenIPDM also include several toolboxes that facilitate performing verification 
 Furthermore, OpenIPDM has the capacity to handle missing data such as, missing interventions or missing structural attributes.
 
 <p align="center">
-<img src="https://github.com/CivML-PolyMtl/OpenIPDM/Help/OpenIPDMMain.png" height="400">
+<img src="https://github.com/CivML-PolyMtl/OpenIPDM/blob/main/Help/OpenIPDM.png" height="400">
     
 For tutorials, see: [YouTube channel](https://youtube.com/playlist?list=PLSng2Crfnjmpu7RbEsfExY3gwI2FwxIjU).
 
