@@ -36,15 +36,7 @@ The code of this software is available at: [OpenIPDM](https://github.com/CivML-P
 ### Installation
 
 1. Download and extract the ZIP file or clone the git repository in your working directory. 
-2. The working directory should include the following folders:
-    - Scripts
-    - Tools
-    - Parameters
-    - Network Data
-    - Figures
-    - ExtractedData
-    - Help
-3. Double-click OpenIPDM.mlapp file to start MATLAB App Designer, and from the top ribbon in App Designer, click *Run*
+2. The default installation path is: C:\Users\{username}\AppData\Roaming\BayesWorks\OpenIPDM\application
 
 
 ### Getting started
