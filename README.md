@@ -27,7 +27,7 @@ The code of this software is available at: [OpenIPDM](https://github.com/CivML-P
 
 - Matlab (version 2020b or higher) installed on Mac OSX or Windows.
 
-- The Matlab Statistics and Machine Learning Toolbox is required.
+- Matlab Runtime 9.11.
 
 - Access to GPU computing (required only for Model Training toolbox)
 
@@ -36,8 +36,7 @@ The code of this software is available at: [OpenIPDM](https://github.com/CivML-P
 ### Installation
 
 1. Download and extract the ZIP file or clone the git repository in your working directory. 
-2. The default installation path is: C:\Users\{username}\AppData\Roaming\BayesWorks\OpenIPDM\application
-
+2. The default installation path is: C:\Users\\[username]\AppData\Roaming\BayesWorks\OpenIPDM\application
 
 ### Getting started
 After starting OpenIPDM, the main user interface will open along with a message box to load the database. Note that the message box will not show up, if pre-processed data already exist in the folder Network Data. 
